@@ -91,7 +91,7 @@ A Core PHP and MySQL event management system that supports public event browsing
 ## 📫 Connect With Me
 
 - GitHub: [@waziur](https://github.com/waziur)
-- LinkedIn: [Waziur Rahman Khan](https://www.linkedin.com/in/waziur-rahman-khan-789085418/)
+- LinkedIn: [Khan Waziur Rahman](https://www.linkedin.com/in/khan-waziur-rahman/)
 
 ---
 
