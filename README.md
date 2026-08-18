@@ -1,8 +1,8 @@
 # Hi, I'm Khan Waziur Rahman 👋
 
-### CSE Student | Web Developer | PHP & Laravel Enthusiast
+### Final-Year CSE Student | Web Developer | PHP & Laravel Enthusiast
 
-I am a Computer Science and Engineering student focused on web application development. I enjoy building practical, database-driven systems with clean interfaces, secure authentication, role-based access control, and structured backend logic.
+I am a final-year Computer Science and Engineering student focused on backend web development and database-driven applications. I enjoy building practical systems with clean interfaces, secure authentication, role-based access control, and structured backend logic.
 
 ---
 
